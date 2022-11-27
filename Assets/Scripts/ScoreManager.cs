@@ -7,7 +7,7 @@ public class ScoreManager : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField]
-    private TextMeshProUGUI scoreText;
+    private TextMeshPro scoreText;
     private int score = 0;
 
     public void IncrementScore(){
