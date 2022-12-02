@@ -49,5 +49,6 @@ public class ScoreCount : MonoBehaviour
         {
             Count6.SetActive(true);
         }
+        
     }
 }
